@@ -1,11 +1,11 @@
 # Gold_Rush
-Indie 2-Dimensional Java game with global scoreboard.
+Indie Java game with global scoreboard.
 
 This game was created by Ian Etherton in 2020.
 It is lightly commented because it was a personal challenge project to design a 2-Dimensional game with a global leaderboard as quickly as possible.
 The project uses gradle to stitch together it's local and external data (stored on a Google Sheet).
 
-The Project took me about 3 weeks to complete from start to finish.
+The Project took me about 3 weeks to complete from start to finish. It's View, Model, and Controller were all built with the onboard Spring library classes.
 I taught myself how to use Gradle, JSON files, the Google Sheets API, and other technologies to complete this project.
 
 Feel free to clone and tweak this project. Let me know if you have any advice how to improve it.
