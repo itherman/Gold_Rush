@@ -1,0 +1,22 @@
+# Ignore Gradle project-specific cache directory
+.gradle/
+.idea/
+.settings/
+bin
+tokens
+
+# Ignore Gradle build output directory
+build
+gradle
+
+# Ignore specific files
+.classpath
+.gitattributes
+.project
+build.gradle
+gradlew
+gradlew.bat
+Leaderboard.txt
+settings.gradle
+SheetsQuickstart.iml
+/src/main/resources/credentials.json
