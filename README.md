@@ -1,5 +1,5 @@
 # Gold_Rush
-Indie Java game with global scoreboard.
+Indie 2-Dimensional Java game with global scoreboard.
 
 This game was created by Ian Etherton in 2020.
 It is lightly commented because it was a personal challenge project to design a 2-Dimensional game with a global leaderboard as quickly as possible.
